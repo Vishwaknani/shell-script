@@ -1,5 +1,5 @@
 #!/bin/bash
 
-echo "hi suresh"
-echo "hi ramesh"
-echo " hi babu"
+echo "ramesh :: hi suresh good morning"
+echo "suresh :: hi ramesh good morning"
+echo "ramesh :: iam good"
